@@ -4,15 +4,16 @@ namespace Segundo_Codigo{
     class Program
     {
         static void Main(){
-            Produto p = new Produto();
+
+
 
             Console.WriteLine("Digite os dados do produto:");
             Console.Write("Nome: ");
-            p.Nome = Console.ReadLine();
+            string nome = Console.ReadLine();
             Console.Write("Preço: ");
-            p.Preco = double.Parse(Console.ReadLine());
-            Console.Write("Quantidade: ");
-            p.Quantidade = int.Parse(Console.ReadLine());
+            double preco = double.Parse(Console.ReadLine());
+
+            Produto p = new Produto(nome, preco);
 
             Console.WriteLine("Dados do produto: " + p);
 

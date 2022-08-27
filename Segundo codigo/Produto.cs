@@ -12,6 +12,19 @@ namespace Segundo_Codigo
         public double Preco;
         public int Quantidade;
 
+        public Produto(string nome, double preco, int quantidade){
+            Nome = nome;
+            Preco = preco;
+            Quantidade = quantidade;
+        }
+
+        public Produto(string nome, double preco){
+            Nome = nome;
+            Preco = preco;
+            Quantidade = 0;//nao precisaria colocar o 0 ja que naturalmente o valor ja e 0, 
+            //mas se por acaso seu sistema ja tiver valor fixo em estoque da para colocar aqui
+        }
+
         public double ValorTotalEmEstoque(){
             return Preco * Quantidade;
         }
