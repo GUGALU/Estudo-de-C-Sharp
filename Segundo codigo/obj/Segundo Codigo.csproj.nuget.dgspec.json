@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gustavo\\Desktop\\GU\\Code\\C#\\Segundo Codigo\\Segundo Codigo.csproj": {}
+    "C:\\Users\\Gustavo\\Desktop\\GU\\Code\\C#\\Segundo codigo\\Segundo Codigo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gustavo\\Desktop\\GU\\Code\\C#\\Segundo Codigo\\Segundo Codigo.csproj": {
+    "C:\\Users\\Gustavo\\Desktop\\GU\\Code\\C#\\Segundo codigo\\Segundo Codigo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\GU\\Code\\C#\\Segundo Codigo\\Segundo Codigo.csproj",
+        "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\GU\\Code\\C#\\Segundo codigo\\Segundo Codigo.csproj",
         "projectName": "Segundo Codigo",
-        "projectPath": "C:\\Users\\Gustavo\\Desktop\\GU\\Code\\C#\\Segundo Codigo\\Segundo Codigo.csproj",
+        "projectPath": "C:\\Users\\Gustavo\\Desktop\\GU\\Code\\C#\\Segundo codigo\\Segundo Codigo.csproj",
         "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gustavo\\Desktop\\GU\\Code\\C#\\Segundo Codigo\\obj\\",
+        "outputPath": "C:\\Users\\Gustavo\\Desktop\\GU\\Code\\C#\\Segundo codigo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config"

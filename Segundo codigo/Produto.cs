@@ -46,5 +46,17 @@ namespace Segundo_Codigo
             + ", Total: $ " 
             + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
         }
+        public void AdicionarEstoque(){
+            Console.WriteLine();
+            Console.Write("Digite o numero de produtos a serem adicionados ao estoque:");
+        }
+        public void dadosAtualizados(Produto produto){
+            Console.WriteLine();
+            Console.Write("Dados atualizados: " + produto);
+        }
+        public void removerEstoque(){
+            Console.WriteLine();
+            Console.Write("Digite o numero de produtos a serem removidos ao estoque:");
+        }
     }
 }

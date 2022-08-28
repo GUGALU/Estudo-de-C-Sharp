@@ -4,32 +4,23 @@ namespace Segundo_Codigo{
     class Program
     {
         static void Main(){
+            Dados dados = new Dados();
+            string nome = dados.informarNome();
+            double preco = dados.informarPreco();
 
+            Produto produto = new Produto(nome, preco);
 
+            Console.WriteLine("Dados do produto: " + produto);
 
-            Console.WriteLine("Digite os dados do produto:");
-            Console.Write("Nome: ");
-            string nome = Console.ReadLine();
-            Console.Write("Preço: ");
-            double preco = double.Parse(Console.ReadLine());
-
-            Produto p = new Produto(nome, preco);
-
-            Console.WriteLine("Dados do produto: " + p);
-
-            Console.WriteLine();
-            Console.Write("Digite o numero de produtos a serem adicionados ao estoque:");
+            produto.AdicionarEstoque();
             int qte = int.Parse(Console.ReadLine());
-            p.AdicionarProduto(qte);
-            Console.WriteLine();
-            Console.WriteLine("Dados atualizados: " + p);
+            produto.AdicionarProduto(qte);
+            produto.dadosAtualizados(produto);
 
-            Console.WriteLine();
-            Console.Write("Digite o numero de produtos a serem removidos ao estoque:");
+            produto.removerEstoque();
             qte = int.Parse(Console.ReadLine());
-            p.RemoverProduto(qte);
-            Console.WriteLine();
-            Console.WriteLine("Dados atualizados: " + p);
+            produto.RemoverProduto(qte);
+            produto.dadosAtualizados(produto);
         }
     }
 }
