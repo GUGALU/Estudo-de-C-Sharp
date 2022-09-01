@@ -24,3 +24,4 @@ namespace Segundo_Codigo{
         }
     }
 }
+// orientando a objeto aos poucos
