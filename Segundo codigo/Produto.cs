@@ -31,6 +31,7 @@ namespace Segundo_Codigo
                 _nome = nome;
             }
         }
+        // este || foi apenas teste o correto seria &&
 
         public double GetPreco(){
             return _preco;
