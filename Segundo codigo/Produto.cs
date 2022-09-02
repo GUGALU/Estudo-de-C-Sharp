@@ -8,18 +8,16 @@ namespace Segundo_Codigo
 {
     public class Produto{
         private string _nome;
-        private double _preco;
-        private int _quantidade;
+        public double Preco {get; private set; }
+        public int Quantidade { get; private set; }
 
         public Produto(){
         }
-        public Produto(string nome, double preco) : this(){
+
+        public Produto(string nome, double preco, int quantidade) {
             _nome = nome;
-            _preco = preco;
-        }
-        public Produto(string nome, double preco, int quantidade) : this(nome,preco){
-            _quantidade = quantidade;//nao precisaria colocar o 0 ja que naturalmente o valor ja e 0, 
-            //mas se por acaso seu sistema ja tiver valor fixo em estoque da para colocar aqui
+            Preco = preco;
+            Quantidade = quantidade;
         }
 
         public string Nome{
@@ -32,32 +30,24 @@ namespace Segundo_Codigo
         }
         // este || foi apenas teste o correto seria &&
 
-        public double Preco {
-            get{return _preco;}
-        }
-
-        public double Quantidade{
-            get{return _quantidade;}
-        }
-
         public double ValorTotalEmEstoque(){
-            return _preco * _quantidade;
+            return Preco * Quantidade;
         }
 
         public void AdicionarProduto(int quantidade){
-            _quantidade += quantidade;
+            Quantidade += quantidade;
         }
 
         public void RemoverProduto(int quantidade){
-            _quantidade -= quantidade;
+            Quantidade -= quantidade;
         }
 
         public override string ToString()
         {
             return _nome 
             + ", $" 
-            + _preco.ToString("F2", CultureInfo.InvariantCulture) 
-            + ", Unidades: " + _quantidade.ToString()
+            + Preco.ToString("F2", CultureInfo.InvariantCulture) 
+            + ", Unidades: " + Quantidade.ToString()
             + ", Total: $ " 
             + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
         }
