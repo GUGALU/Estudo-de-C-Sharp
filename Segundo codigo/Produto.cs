@@ -6,43 +6,58 @@ using System.Globalization;
 
 namespace Segundo_Codigo
 {
-    public class Produto
-    {
-        public string Nome;
-        public double Preco;
-        public int Quantidade;
+    public class Produto{
+        private string _nome;
+        private double _preco;
+        private int _quantidade;
 
-        public Produto(string nome, double preco, int quantidade){
-            Nome = nome;
-            Preco = preco;
-            Quantidade = quantidade;
+        public Produto(){
         }
-
-        public Produto(string nome, double preco){
-            Nome = nome;
-            Preco = preco;
-            Quantidade = 0;//nao precisaria colocar o 0 ja que naturalmente o valor ja e 0, 
+        public Produto(string nome, double preco) : this(){
+            _nome = nome;
+            _preco = preco;
+        }
+        public Produto(string nome, double preco, int quantidade) : this(nome,preco){
+            _quantidade = quantidade;//nao precisaria colocar o 0 ja que naturalmente o valor ja e 0, 
             //mas se por acaso seu sistema ja tiver valor fixo em estoque da para colocar aqui
         }
 
+        public string GetNome(){
+            return _nome;
+        }
+
+        public void SetNome(string nome){
+            if(nome != null || nome.Length > 1){
+                _nome = nome;
+            }
+        }
+
+        public double GetPreco(){
+            return _preco;
+        }
+
+        public int GetQuantidade(){
+            return _quantidade;
+        }
+
         public double ValorTotalEmEstoque(){
-            return Preco * Quantidade;
+            return _preco * _quantidade;
         }
 
         public void AdicionarProduto(int quantidade){
-            Quantidade += quantidade;
+            _quantidade += quantidade;
         }
 
         public void RemoverProduto(int quantidade){
-            Quantidade -= quantidade;
+            _quantidade -= quantidade;
         }
 
         public override string ToString()
         {
-            return Nome 
+            return _nome 
             + ", $" 
-            + Preco.ToString("F2", CultureInfo.InvariantCulture) 
-            + ", Unidades: " + Quantidade.ToString()
+            + _preco.ToString("F2", CultureInfo.InvariantCulture) 
+            + ", Unidades: " + _quantidade.ToString()
             + ", Total: $ " 
             + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
         }
