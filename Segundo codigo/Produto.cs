@@ -30,6 +30,7 @@ namespace Segundo_Codigo
                 }
             }
         }
+        // este || foi apenas teste o correto seria &&
 
         public double Preco {
             get{return _preco;}
