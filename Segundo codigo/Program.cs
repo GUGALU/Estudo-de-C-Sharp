@@ -9,6 +9,8 @@ namespace Segundo_Codigo{
             produto.Nome = "T";
 
            Console.WriteLine(produto.Nome);
+           Console.WriteLine(produto.Preco);
+           Console.WriteLine(produto.Quantidade);
         }
     }
 }
