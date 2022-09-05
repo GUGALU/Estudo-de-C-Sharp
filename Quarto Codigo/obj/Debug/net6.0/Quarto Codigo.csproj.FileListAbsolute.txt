@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Desktop\GU\Code\C#\Quarto Codigo\bin\Debug\net6.0\Quarto Codigo.exe
+C:\Users\Gustavo\Desktop\GU\Code\C#\Quarto Codigo\bin\Debug\net6.0\Quarto Codigo.deps.json
+C:\Users\Gustavo\Desktop\GU\Code\C#\Quarto Codigo\bin\Debug\net6.0\Quarto Codigo.runtimeconfig.json
+C:\Users\Gustavo\Desktop\GU\Code\C#\Quarto Codigo\bin\Debug\net6.0\Quarto Codigo.dll
+C:\Users\Gustavo\Desktop\GU\Code\C#\Quarto Codigo\bin\Debug\net6.0\Quarto Codigo.pdb
+C:\Users\Gustavo\Desktop\GU\Code\C#\Quarto Codigo\obj\Debug\net6.0\Quarto Codigo.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Quarto Codigo\obj\Debug\net6.0\Quarto Codigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\GU\Code\C#\Quarto Codigo\obj\Debug\net6.0\Quarto Codigo.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Quarto Codigo\obj\Debug\net6.0\Quarto Codigo.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\GU\Code\C#\Quarto Codigo\obj\Debug\net6.0\Quarto Codigo.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Quarto Codigo\obj\Debug\net6.0\Quarto Codigo.dll
+C:\Users\Gustavo\Desktop\GU\Code\C#\Quarto Codigo\obj\Debug\net6.0\refint\Quarto Codigo.dll
+C:\Users\Gustavo\Desktop\GU\Code\C#\Quarto Codigo\obj\Debug\net6.0\Quarto Codigo.pdb
+C:\Users\Gustavo\Desktop\GU\Code\C#\Quarto Codigo\obj\Debug\net6.0\Quarto Codigo.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Quarto Codigo\obj\Debug\net6.0\ref\Quarto Codigo.dll
