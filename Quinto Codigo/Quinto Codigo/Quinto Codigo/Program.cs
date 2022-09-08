@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Globalization;
-using static System.Console;
+using static System.Console; // serve pra nao precisa colocar Console. antes dos comandos
 
 namespace Quinto_Codigo
 {
