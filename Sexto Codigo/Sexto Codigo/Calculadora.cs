@@ -8,17 +8,22 @@ namespace Sexto_Codigo
 {
     internal class Calculadora
     {
-        public static int Sum(int n1, int n2)
+        public static int Sum(params int[] numbers)
         {
-            return n1 + n2;
+            int sum = 0;
+            for(int i = 0; i < numbers.Length; i++)
+            {
+                sum += numbers[i];
+            }
+            return sum;
         }
-        public static int Sum(int n1, int n2, int n3)
+        public static void Triple(ref int x)
         {
-            return n1 + n2 + n3;
+            x = x * 3;
         }
-        public static int Sum(int n1, int n2, int n3, int n4)
+        public static void Triple_out(int origin, out int result)
         {
-            return n1 + n2 + n3 + n4;
+            result = origin * 3;
         }
     }
 }
