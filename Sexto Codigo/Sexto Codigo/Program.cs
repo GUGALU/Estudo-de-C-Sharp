@@ -28,6 +28,20 @@ namespace Sexto_Codigo
             int triple_out;
             Calculadora.Triple_out(multiplicado2, out triple_out);
             Console.WriteLine(triple_out);
+
+            string[] vetor = new string[] { "Gustavo", "Gabriel", "Antonio" };
+
+            for(int i = 0; i < vetor.Length; i++)
+            {
+                Console.WriteLine(vetor[i]);
+            }
+
+            Console.WriteLine("________________");
+
+            foreach(string obj in vetor)
+            {
+                Console.WriteLine(obj);
+            }
         }
     }
 }
