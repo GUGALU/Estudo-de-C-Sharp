@@ -1,3 +1,3 @@
-# estudo-de-C-Sharp
+# Estudo de C#
 
 Estudando C#.
