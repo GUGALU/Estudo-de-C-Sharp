@@ -1,6 +1,0 @@
-Valores padroes quando colocamos o NEW para Classes, Struct, Arrays{
-    números : 0
-    • bool : False
-    char : caractere código 0
-    objeto : null ●
-}
