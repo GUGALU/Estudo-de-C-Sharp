@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Topicos especiais\Topicos especiais\bin\Debug\net6.0\Topicos especiais.exe
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Topicos especiais\Topicos especiais\bin\Debug\net6.0\Topicos especiais.deps.json
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Topicos especiais\Topicos especiais\bin\Debug\net6.0\Topicos especiais.runtimeconfig.json
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Topicos especiais\Topicos especiais\bin\Debug\net6.0\Topicos especiais.dll
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Topicos especiais\Topicos especiais\bin\Debug\net6.0\Topicos especiais.pdb
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Topicos especiais\Topicos especiais\obj\Debug\net6.0\Topicos especiais.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Topicos especiais\Topicos especiais\obj\Debug\net6.0\Topicos especiais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Topicos especiais\Topicos especiais\obj\Debug\net6.0\Topicos especiais.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Topicos especiais\Topicos especiais\obj\Debug\net6.0\Topicos especiais.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Topicos especiais\Topicos especiais\obj\Debug\net6.0\Topicos especiais.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Topicos especiais\Topicos especiais\obj\Debug\net6.0\Topicos especiais.dll
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Topicos especiais\Topicos especiais\obj\Debug\net6.0\refint\Topicos especiais.dll
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Topicos especiais\Topicos especiais\obj\Debug\net6.0\Topicos especiais.pdb
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Topicos especiais\Topicos especiais\obj\Debug\net6.0\Topicos especiais.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Topicos especiais\Topicos especiais\obj\Debug\net6.0\ref\Topicos especiais.dll
