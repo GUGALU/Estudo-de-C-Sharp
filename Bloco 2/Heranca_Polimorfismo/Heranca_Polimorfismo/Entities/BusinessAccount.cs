@@ -26,5 +26,11 @@ namespace Heranca_Polimorfismo.Entities
                 Balance += amount;
             }
         }
+
+        public override void WithDraw(double amount)
+        {
+            base.WithDraw(amount);
+            Balance -= 10.0;
+        }
     }
 }

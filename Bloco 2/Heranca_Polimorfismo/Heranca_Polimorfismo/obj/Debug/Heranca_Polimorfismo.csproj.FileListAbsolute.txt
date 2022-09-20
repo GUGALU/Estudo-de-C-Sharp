@@ -1,0 +1,8 @@
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Heranca_Polimorfismo\Heranca_Polimorfismo\bin\Debug\Heranca_Polimorfismo.exe.config
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Heranca_Polimorfismo\Heranca_Polimorfismo\bin\Debug\Heranca_Polimorfismo.exe
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Heranca_Polimorfismo\Heranca_Polimorfismo\bin\Debug\Heranca_Polimorfismo.pdb
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Heranca_Polimorfismo\Heranca_Polimorfismo\obj\Debug\Heranca_Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Heranca_Polimorfismo\Heranca_Polimorfismo\obj\Debug\Heranca_Polimorfismo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Heranca_Polimorfismo\Heranca_Polimorfismo\obj\Debug\Heranca_Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Heranca_Polimorfismo\Heranca_Polimorfismo\obj\Debug\Heranca_Polimorfismo.exe
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Heranca_Polimorfismo\Heranca_Polimorfismo\obj\Debug\Heranca_Polimorfismo.pdb
