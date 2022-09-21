@@ -1,0 +1,8 @@
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\GerenciamentoFuncionarios\GerenciamentoFuncionarios\bin\Debug\GerenciamentoFuncionarios.exe.config
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\GerenciamentoFuncionarios\GerenciamentoFuncionarios\bin\Debug\GerenciamentoFuncionarios.exe
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\GerenciamentoFuncionarios\GerenciamentoFuncionarios\bin\Debug\GerenciamentoFuncionarios.pdb
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\GerenciamentoFuncionarios\GerenciamentoFuncionarios\obj\Debug\GerenciamentoFuncionarios.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\GerenciamentoFuncionarios\GerenciamentoFuncionarios\obj\Debug\GerenciamentoFuncionarios.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\GerenciamentoFuncionarios\GerenciamentoFuncionarios\obj\Debug\GerenciamentoFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\GerenciamentoFuncionarios\GerenciamentoFuncionarios\obj\Debug\GerenciamentoFuncionarios.exe
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\GerenciamentoFuncionarios\GerenciamentoFuncionarios\obj\Debug\GerenciamentoFuncionarios.pdb
