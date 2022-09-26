@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 using Heranca_Polimorfismo.Entities;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,17 +12,36 @@ namespace Heranca_Polimorfismo
     {
         static void Main(string[] args)
         {
-            Account account1 = new Account(1000, "Fernanda", 1000.0);
-            Account account2 = new SavingAccount(1300, "Maria", 1000.0, 0.01);
 
-            Console.WriteLine("Saldo conta1: " + account1.Balance);
-            Console.WriteLine("Saldo conta2: " + account2.Balance);
+            List<Account> lista = new List<Account>();
 
-            account1.WithDraw(100.0);
-            account2.WithDraw(100.0);
+            lista.Add(new SavingAccount(1010, "Fernanda", 1250.00, 1000.00));
+            lista.Add(new BusinessAccount(1020, "Alex", 2050.00, 1500.00));
+            lista.Add(new SavingAccount(1030, "Pietro", 3500.00, 1300.00));
+            lista.Add(new BusinessAccount(1040, "Gustavo", 1200.00, 1000.00));
 
-            Console.WriteLine("Saldo conta1 pos saque: " + account1.Balance);
-            Console.WriteLine("Saldo conta2 pos saque: " + account2.Balance);
+            double sum = 0.0;
+            foreach(Account acc in lista)
+            {
+                sum += acc.Balance;
+            }
+
+            Console.WriteLine("Total balance: " + sum.ToString("F2", CultureInfo.InvariantCulture));
+
+            foreach(Account acc in lista)
+            {
+                acc.WithDraw(10.0);
+            }
+
+            foreach(Account acc in lista)
+            {
+                Console.WriteLine("Update balance for "
+                    + acc.Holder
+                    + " - "
+                    + acc.Balance.ToString("F2", CultureInfo.InvariantCulture)
+                    );
+            }
+
         }
     }
 }
