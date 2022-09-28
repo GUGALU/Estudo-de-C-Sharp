@@ -1,0 +1,8 @@
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Exercicio_Abstract\Exercicio_Abstract\bin\Debug\Exercicio_Abstract.exe.config
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Exercicio_Abstract\Exercicio_Abstract\bin\Debug\Exercicio_Abstract.exe
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Exercicio_Abstract\Exercicio_Abstract\bin\Debug\Exercicio_Abstract.pdb
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Exercicio_Abstract\Exercicio_Abstract\obj\Debug\Exercicio_Abstract.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Exercicio_Abstract\Exercicio_Abstract\obj\Debug\Exercicio_Abstract.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Exercicio_Abstract\Exercicio_Abstract\obj\Debug\Exercicio_Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Exercicio_Abstract\Exercicio_Abstract\obj\Debug\Exercicio_Abstract.exe
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Exercicio_Abstract\Exercicio_Abstract\obj\Debug\Exercicio_Abstract.pdb
