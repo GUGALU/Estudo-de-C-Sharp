@@ -1,0 +1,8 @@
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\FilesInfo\FilesInfo\bin\Debug\FilesInfo.exe.config
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\FilesInfo\FilesInfo\bin\Debug\FilesInfo.exe
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\FilesInfo\FilesInfo\bin\Debug\FilesInfo.pdb
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\FilesInfo\FilesInfo\obj\Debug\FilesInfo.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\FilesInfo\FilesInfo\obj\Debug\FilesInfo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\FilesInfo\FilesInfo\obj\Debug\FilesInfo.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\FilesInfo\FilesInfo\obj\Debug\FilesInfo.exe
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\FilesInfo\FilesInfo\obj\Debug\FilesInfo.pdb
