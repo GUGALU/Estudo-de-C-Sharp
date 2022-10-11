@@ -34,15 +34,16 @@ namespace FilesInfo
 
             string path = @"C:\\Users\\Gustavo\\Desktop\\GU\\Code\\C#\\Bloco 2\\FilesInfo\\FileStream.txt";
 
-            FileStream fileStream = null;
-            StreamReader streamReader = null;
+            StreamReader streamReader = null; // string particular, otimizada
 
             try
             {
-                fileStream = new FileStream(path, FileMode.Open);
-                streamReader = new StreamReader(fileStream);
-                string line = streamReader.ReadLine();
-                Console.WriteLine(line);
+                streamReader = File.OpenText(path);
+                while (!streamReader.EndOfStream)
+                {
+                    string line = streamReader.ReadLine();
+                    Console.WriteLine(line);
+                }
             }
             catch(IOException erro)
             {
@@ -51,7 +52,6 @@ namespace FilesInfo
             }
             finally
             {
-                if(fileStream != null) fileStream.Close();
                 if(streamReader != null) streamReader.Close();
             }
         }
