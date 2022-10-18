@@ -35,31 +35,42 @@ namespace Files
             //    Console.WriteLine(err.Message);
             //}
 
-            string path = @"C:\\Users\\Gustavo\\Desktop\\GU\\Code\\C#\\Bloco 2\\Files\\Folder";
+            //string path = @"C:\\Users\\Gustavo\\Desktop\\GU\\Code\\C#\\Bloco 2\\Files\\Folder";
 
-            try
-            {
-                var folders =  Directory.EnumerateDirectories(path, "*.*", SearchOption.AllDirectories);
-                Console.WriteLine("Folders: ");
-                foreach(string s in folders)
-                {
-                    Console.WriteLine(s);
-                }
+            //try
+            //{
+            //    var folders =  Directory.EnumerateDirectories(path, "*.*", SearchOption.AllDirectories);
+            //    Console.WriteLine("Folders: ");
+            //    foreach(string s in folders)
+            //    {
+            //        Console.WriteLine(s);
+            //    }
 
-                var files = Directory.EnumerateFiles(path, "*.*", SearchOption.AllDirectories);
-                Console.WriteLine("Files: ");
-                foreach (string s in files)
-                {
-                    Console.WriteLine(s);
-                }
+            //    var files = Directory.EnumerateFiles(path, "*.*", SearchOption.AllDirectories);
+            //    Console.WriteLine("Files: ");
+            //    foreach (string s in files)
+            //    {
+            //        Console.WriteLine(s);
+            //    }
 
-                Directory.CreateDirectory(path + "\\newFolder");
-            }
-            catch (IOException err)
-            {
-                Console.WriteLine("Error");
-                Console.WriteLine(err.Message);
-            }
+            //    Directory.CreateDirectory(path + "\\newFolder");
+            //}
+            //catch (IOException err)
+            //{
+            //    Console.WriteLine("Error");
+            //    Console.WriteLine(err.Message);
+            //}
+
+            string path = @"C:\\Users\\Gustavo\\Desktop\\GU\\Code\\C#\\Bloco 2\\Files\\text.txt";
+
+            Console.WriteLine("DirectorySeparatorChar: " + Path.DirectorySeparatorChar);
+            Console.WriteLine("PathSeparator: " + Path.PathSeparator);
+            Console.WriteLine("GetDirectoryName: " + Path.GetDirectoryName(path));
+            Console.WriteLine("GetFileName: " + Path.GetFileName(path));
+            Console.WriteLine("GetExtension: " + Path.GetExtension(path));
+            Console.WriteLine("GetFileNameWithoutExtension: " + Path.GetFileNameWithoutExtension(path));
+            Console.WriteLine("GetFullPath: " + Path.GetFullPath(path));
+            Console.WriteLine("GetTempPath: " + Path.GetTempPath());
         }
     }
 }
