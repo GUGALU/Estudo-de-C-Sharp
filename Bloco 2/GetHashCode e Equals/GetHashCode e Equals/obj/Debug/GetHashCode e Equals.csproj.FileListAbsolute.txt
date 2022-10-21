@@ -1,0 +1,8 @@
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\GetHashCode e Equals\GetHashCode e Equals\bin\Debug\GetHashCode e Equals.exe.config
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\GetHashCode e Equals\GetHashCode e Equals\bin\Debug\GetHashCode e Equals.exe
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\GetHashCode e Equals\GetHashCode e Equals\bin\Debug\GetHashCode e Equals.pdb
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\GetHashCode e Equals\GetHashCode e Equals\obj\Debug\GetHashCode e Equals.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\GetHashCode e Equals\GetHashCode e Equals\obj\Debug\GetHashCode e Equals.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\GetHashCode e Equals\GetHashCode e Equals\obj\Debug\GetHashCode e Equals.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\GetHashCode e Equals\GetHashCode e Equals\obj\Debug\GetHashCode e Equals.exe
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\GetHashCode e Equals\GetHashCode e Equals\obj\Debug\GetHashCode e Equals.pdb
