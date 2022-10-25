@@ -1,0 +1,8 @@
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Extension Methods\Extension Methods\bin\Debug\Extension Methods.exe.config
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Extension Methods\Extension Methods\bin\Debug\Extension Methods.exe
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Extension Methods\Extension Methods\bin\Debug\Extension Methods.pdb
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Extension Methods\Extension Methods\obj\Debug\Extension Methods.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Extension Methods\Extension Methods\obj\Debug\Extension Methods.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Extension Methods\Extension Methods\obj\Debug\Extension Methods.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Extension Methods\Extension Methods\obj\Debug\Extension Methods.exe
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Extension Methods\Extension Methods\obj\Debug\Extension Methods.pdb
