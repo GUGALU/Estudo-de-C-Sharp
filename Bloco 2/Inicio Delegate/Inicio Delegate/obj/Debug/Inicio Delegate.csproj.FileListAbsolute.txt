@@ -1,0 +1,3 @@
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Inicio Delegate\Inicio Delegate\obj\Debug\Inicio Delegate.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Inicio Delegate\Inicio Delegate\obj\Debug\Inicio Delegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Inicio Delegate\Inicio Delegate\obj\Debug\Inicio Delegate.csproj.CoreCompileInputs.cache
