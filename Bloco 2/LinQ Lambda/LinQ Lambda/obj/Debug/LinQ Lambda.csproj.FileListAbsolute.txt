@@ -1,0 +1,8 @@
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\LinQ Lambda\LinQ Lambda\bin\Debug\LinQ Lambda.exe.config
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\LinQ Lambda\LinQ Lambda\bin\Debug\LinQ Lambda.exe
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\LinQ Lambda\LinQ Lambda\bin\Debug\LinQ Lambda.pdb
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\LinQ Lambda\LinQ Lambda\obj\Debug\LinQ Lambda.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\LinQ Lambda\LinQ Lambda\obj\Debug\LinQ Lambda.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\LinQ Lambda\LinQ Lambda\obj\Debug\LinQ Lambda.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\LinQ Lambda\LinQ Lambda\obj\Debug\LinQ Lambda.exe
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\LinQ Lambda\LinQ Lambda\obj\Debug\LinQ Lambda.pdb
