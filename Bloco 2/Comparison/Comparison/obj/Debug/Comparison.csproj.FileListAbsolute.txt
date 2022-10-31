@@ -1,0 +1,8 @@
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Comparison\Comparison\bin\Debug\Comparison.exe.config
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Comparison\Comparison\bin\Debug\Comparison.exe
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Comparison\Comparison\bin\Debug\Comparison.pdb
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Comparison\Comparison\obj\Debug\Comparison.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Comparison\Comparison\obj\Debug\Comparison.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Comparison\Comparison\obj\Debug\Comparison.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Comparison\Comparison\obj\Debug\Comparison.exe
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Comparison\Comparison\obj\Debug\Comparison.pdb
