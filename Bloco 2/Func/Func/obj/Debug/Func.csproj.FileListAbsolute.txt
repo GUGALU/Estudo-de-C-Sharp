@@ -1,0 +1,8 @@
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Func\Func\bin\Debug\Func.exe.config
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Func\Func\bin\Debug\Func.exe
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Func\Func\bin\Debug\Func.pdb
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Func\Func\obj\Debug\Func.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Func\Func\obj\Debug\Func.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Func\Func\obj\Debug\Func.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Func\Func\obj\Debug\Func.exe
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Func\Func\obj\Debug\Func.pdb
