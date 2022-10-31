@@ -1,0 +1,8 @@
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Dictionary e SortedDictionary\Dictionary e SortedDictionary\bin\Debug\Dictionary e SortedDictionary.exe.config
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Dictionary e SortedDictionary\Dictionary e SortedDictionary\bin\Debug\Dictionary e SortedDictionary.exe
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Dictionary e SortedDictionary\Dictionary e SortedDictionary\bin\Debug\Dictionary e SortedDictionary.pdb
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Dictionary e SortedDictionary\Dictionary e SortedDictionary\obj\Debug\Dictionary e SortedDictionary.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Dictionary e SortedDictionary\Dictionary e SortedDictionary\obj\Debug\Dictionary e SortedDictionary.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Dictionary e SortedDictionary\Dictionary e SortedDictionary\obj\Debug\Dictionary e SortedDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Dictionary e SortedDictionary\Dictionary e SortedDictionary\obj\Debug\Dictionary e SortedDictionary.exe
+C:\Users\Gustavo\Desktop\GU\Code\C#\Bloco 2\Dictionary e SortedDictionary\Dictionary e SortedDictionary\obj\Debug\Dictionary e SortedDictionary.pdb
